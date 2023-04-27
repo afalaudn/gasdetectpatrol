@@ -1,15 +1,15 @@
 # Gas Detection Patrol Robot
 
-Robot Obstacle Avoider
+Robot Obstacle Avoider based.
 
 ## Deskripsi
 
-Proyek ini adalah sebuah robot yang dapat menghindari rintangan. Robot ini dirancang menggunakan [nama platform hardware/software] dan dilengkapi dengan beberapa sensor [nama sensor] untuk mendeteksi rintangan di sekitarnya. Robot akan bergerak maju dan menghindari rintangan yang ada di jalannya.
+Gas Detection Patrol Robot adalah sebuah proyek yang menggunakan Arduino Uno dan dilengkapi dengan beberapa sensor, termasuk sensor ultrasonik dan sensor gas, untuk mendeteksi rintangan dan kandungan gas di sekitarnya. Robot ini mampu bergerak maju dan menghindari rintangan yang ada di jalurnya, dan akan berhenti saat mendeteksi adanya kandungan gas di udara sekitarnya lalu akan mengeluarkan bunyi dari buzzer.
 
 ## Fitur
 
 - Robot dapat bergerak maju dan menghindari rintangan
-- Dilengkapi dengan sensor [nama sensor] untuk mendeteksi rintangan di sekitarnya
+- Dilengkapi dengan sensor ultrasonik untuk mendeteksi rintangan di sekitarnya
 - Dilengkapi dengan [nama komponen] sebagai power source
 - Dilengkapi dengan [nama komponen] sebagai penggerak motor
 
