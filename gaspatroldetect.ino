@@ -1,5 +1,4 @@
 // Tugas Besar Robotika Semester 7
-// Kelompok 2 EL-44-G1
 // Januari 2023
 
 #include <AFMotor.h>
