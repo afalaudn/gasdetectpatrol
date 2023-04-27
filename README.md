@@ -1,6 +1,6 @@
 # Gas Detection Patrol Robot
 
-Robot Obstacle Avoider based.
+Obstacle Avoider Robot based from https://www.the-diy-life.com/arduino-based-obstacle-avoiding-robot-car/.
 
 ## Deskripsi
 
@@ -26,11 +26,3 @@ Gas Detection Patrol Robot adalah sebuah proyek yang menggunakan Arduino Uno dan
 2. Hubungkan robot dengan sumber daya listrik menggunakan kabel [nama kabel].
 3. Nyalakan robot dengan menekan tombol [nama tombol].
 4. Robot siap digunakan.
-
-## Kontribusi
-
-Kami sangat terbuka terhadap kontribusi dari komunitas. Silahkan berkontribusi dengan cara melakukan [nama kontribusi] pada repositori ini.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [nama lisensi]. Silahkan melihat file LICENSE untuk informasi lebih lanjut.
